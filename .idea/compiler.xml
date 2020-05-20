@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Problems-Check_burgs_main" target="11" />
+      <module name="Problems-Check_burgs_test" target="11" />
       <module name="Problems-Decrement_all_main" target="11" />
       <module name="Problems-Decrement_all_test" target="11" />
       <module name="Problems-Desks_main" target="11" />
@@ -18,6 +20,8 @@
       <module name="Problems-Print_strings_in_the_reverse_order_test" target="11" />
       <module name="Problems-Printing_each_word_in_a_new_line_main" target="11" />
       <module name="Problems-Printing_each_word_in_a_new_line_test" target="11" />
+      <module name="Problems-Replacing_'a'_with_'b'_main" target="11" />
+      <module name="Problems-Replacing_'a'_with_'b'_test" target="11" />
       <module name="Problems-Reversing_input_numbers_main" target="11" />
       <module name="Problems-Reversing_input_numbers_test" target="11" />
       <module name="Problems-Snail_main" target="11" />
