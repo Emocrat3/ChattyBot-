@@ -2,12 +2,20 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Problems-Boys_in_a_sport_class_main" target="11" />
+      <module name="Problems-Boys_in_a_sport_class_test" target="11" />
       <module name="Problems-Check_burgs_main" target="11" />
       <module name="Problems-Check_burgs_test" target="11" />
+      <module name="Problems-Check_the_value_main" target="11" />
+      <module name="Problems-Check_the_value_test" target="11" />
+      <module name="Problems-Comparing_strings_ignoring_whitespaces_main" target="11" />
+      <module name="Problems-Comparing_strings_ignoring_whitespaces_test" target="11" />
       <module name="Problems-Decrement_all_main" target="11" />
       <module name="Problems-Decrement_all_test" target="11" />
       <module name="Problems-Desks_main" target="11" />
       <module name="Problems-Desks_test" target="11" />
+      <module name="Problems-Exactly_one_parameter_is_positive_main" target="11" />
+      <module name="Problems-Exactly_one_parameter_is_positive_test" target="11" />
       <module name="Problems-Fill_the_declaration_main" target="11" />
       <module name="Problems-Fill_the_declaration_test" target="11" />
       <module name="Problems-From_0_to_4_main" target="11" />
