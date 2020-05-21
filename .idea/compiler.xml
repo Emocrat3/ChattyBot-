@@ -8,6 +8,8 @@
       <module name="Problems-Check_burgs_test" target="11" />
       <module name="Problems-Check_the_value_main" target="11" />
       <module name="Problems-Check_the_value_test" target="11" />
+      <module name="Problems-Chocolate_main" target="11" />
+      <module name="Problems-Chocolate_test" target="11" />
       <module name="Problems-Comparing_strings_ignoring_whitespaces_main" target="11" />
       <module name="Problems-Comparing_strings_ignoring_whitespaces_test" target="11" />
       <module name="Problems-Decrement_all_main" target="11" />
@@ -22,8 +24,12 @@
       <module name="Problems-From_0_to_4_test" target="11" />
       <module name="Problems-Guest_list_of_a_hotel_main" target="11" />
       <module name="Problems-Guest_list_of_a_hotel_test" target="11" />
+      <module name="Problems-Healthy_sleep_main" target="11" />
+      <module name="Problems-Healthy_sleep_test" target="11" />
       <module name="Problems-Hello,_Java_main" target="11" />
       <module name="Problems-Hello,_Java_test" target="11" />
+      <module name="Problems-Interval_main" target="11" />
+      <module name="Problems-Interval_test" target="11" />
       <module name="Problems-Print_strings_in_the_reverse_order_main" target="11" />
       <module name="Problems-Print_strings_in_the_reverse_order_test" target="11" />
       <module name="Problems-Printing_each_word_in_a_new_line_main" target="11" />

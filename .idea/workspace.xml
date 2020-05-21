@@ -2,30 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6412c228-d215-4e20-aa15-83cf14b51570" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Boys in a sport class/Problems-Boys_in_a_sport_class.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Boys in a sport class/Problems-Boys_in_a_sport_class_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Boys in a sport class/Problems-Boys_in_a_sport_class_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check the value/Problems-Check_the_value.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check the value/Problems-Check_the_value_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check the value/Problems-Check_the_value_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Comparing strings ignoring whitespaces/Problems-Comparing_strings_ignoring_whitespaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Comparing strings ignoring whitespaces/Problems-Comparing_strings_ignoring_whitespaces_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Comparing strings ignoring whitespaces/Problems-Comparing_strings_ignoring_whitespaces_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Exactly one parameter is positive/Problems-Exactly_one_parameter_is_positive.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Exactly one parameter is positive/Problems-Exactly_one_parameter_is_positive_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Exactly one parameter is positive/Problems-Exactly_one_parameter_is_positive_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Boys in a sport class/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Boys in a sport class/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Boys in a sport class/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Boys in a sport class/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Check the value/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Check the value/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Check the value/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Check the value/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Exactly one parameter is positive/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Exactly one parameter is positive/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Exactly one parameter is positive/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Exactly one parameter is positive/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Chocolate/Problems-Chocolate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Chocolate/Problems-Chocolate_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Chocolate/Problems-Chocolate_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Healthy sleep/Problems-Healthy_sleep.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Healthy sleep/Problems-Healthy_sleep_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Healthy sleep/Problems-Healthy_sleep_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Interval/Problems-Interval.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Interval/Problems-Interval_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Interval/Problems-Interval_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Chocolate/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Chocolate/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Chocolate/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Chocolate/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Healthy sleep/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Healthy sleep/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Healthy sleep/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Healthy sleep/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Interval/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Interval/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Interval/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Interval/task.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -36,8 +33,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problems/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/lesson-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +72,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Problems-Boys_in_a_sport_class_main" />
@@ -85,16 +80,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Healthy_sleep_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Check_burgs_main" />
+      <module name="Problems-Interval_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Comparing_strings_ignoring_whitespaces_main" />
+      <module name="Problems-Chocolate_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -106,20 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Check_the_value_main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -141,22 +136,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1589997608104" />
-    <state width="1323" height="180" key="GridCell.Tab.0.bottom" timestamp="1590006020883">
+    <state width="1323" height="180" key="GridCell.Tab.0.bottom" timestamp="1590096349136">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590006020883" />
-    <state width="1323" height="180" key="GridCell.Tab.0.center" timestamp="1590006020883">
+    <state width="1323" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590096349136" />
+    <state width="1323" height="180" key="GridCell.Tab.0.center" timestamp="1590096349135">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590006020883" />
-    <state width="1323" height="180" key="GridCell.Tab.0.left" timestamp="1590006020883">
+    <state width="1323" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590096349135" />
+    <state width="1323" height="180" key="GridCell.Tab.0.left" timestamp="1590096349135">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590006020883" />
-    <state width="1323" height="180" key="GridCell.Tab.0.right" timestamp="1590006020883">
+    <state width="1323" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590096349135" />
+    <state width="1323" height="180" key="GridCell.Tab.0.right" timestamp="1590096349136">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590006020883" />
+    <state width="1323" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590096349136" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1589999118343">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -173,11 +168,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589999118343" />
-    <state x="386" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1590016098371">
+    <state x="386" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1590090525625">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="386" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589641790397" />
-    <state x="386" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590016098371" />
+    <state x="386" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590090525625" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1589567840864">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
