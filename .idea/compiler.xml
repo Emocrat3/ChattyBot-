@@ -10,6 +10,8 @@
       <module name="Problems-Check_the_value_test" target="11" />
       <module name="Problems-Chocolate_main" target="11" />
       <module name="Problems-Chocolate_test" target="11" />
+      <module name="Problems-Collatz_conjecture_main" target="11" />
+      <module name="Problems-Collatz_conjecture_test" target="11" />
       <module name="Problems-Comparing_strings_ignoring_whitespaces_main" target="11" />
       <module name="Problems-Comparing_strings_ignoring_whitespaces_test" target="11" />
       <module name="Problems-Decrement_all_main" target="11" />
