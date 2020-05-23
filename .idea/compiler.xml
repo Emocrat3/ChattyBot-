@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="Problems-Boys_in_a_sport_class_main" target="11" />
       <module name="Problems-Boys_in_a_sport_class_test" target="11" />
+      <module name="Problems-Bus_tour_main" target="11" />
+      <module name="Problems-Bus_tour_test" target="11" />
       <module name="Problems-Check_burgs_main" target="11" />
       <module name="Problems-Check_burgs_test" target="11" />
       <module name="Problems-Check_the_value_main" target="11" />
