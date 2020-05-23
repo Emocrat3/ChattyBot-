@@ -18,6 +18,8 @@
       <module name="Problems-Decrement_all_test" target="11" />
       <module name="Problems-Desks_main" target="11" />
       <module name="Problems-Desks_test" target="11" />
+      <module name="Problems-Even_or_odd_main" target="11" />
+      <module name="Problems-Even_or_odd_test" target="11" />
       <module name="Problems-Exactly_one_parameter_is_positive_main" target="11" />
       <module name="Problems-Exactly_one_parameter_is_positive_test" target="11" />
       <module name="Problems-Fill_the_declaration_main" target="11" />
@@ -54,6 +56,8 @@
       <module name="Problems-The_product_of_numbers_from_a_to_b_test" target="11" />
       <module name="Problems-The_result_of_a_Tic-Tac-Toe_game_main" target="11" />
       <module name="Problems-The_result_of_a_Tic-Tac-Toe_game_test" target="11" />
+      <module name="Problems-The_smallest_value_main" target="11" />
+      <module name="Problems-The_smallest_value_test" target="11" />
       <module name="Problems-The_sum_of_integers_from_a_to_b_main" target="11" />
       <module name="Problems-The_sum_of_integers_from_a_to_b_test" target="11" />
       <module name="Problems-We_need_to_learn_Java_main" target="11" />
