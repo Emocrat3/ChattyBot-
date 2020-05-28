@@ -6,6 +6,7 @@ public class Main {
         int alturaBus = in.nextInt(), cantidadPuentes = in.nextInt();
         for (int i = 1; i <= cantidadPuentes; i ++) {
             int alturaPuentes = in.nextInt();
+
             if (i == cantidadPuentes) {
                 System.out.println("Will not crash");
             } else {
