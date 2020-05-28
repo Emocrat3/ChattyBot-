@@ -34,6 +34,8 @@
       <module name="Problems-Healthy_sleep_test" target="11" />
       <module name="Problems-Hello,_Java_main" target="11" />
       <module name="Problems-Hello,_Java_test" target="11" />
+      <module name="Problems-Integer_part_of_a_number_main" target="11" />
+      <module name="Problems-Integer_part_of_a_number_test" target="11" />
       <module name="Problems-Interval_main" target="11" />
       <module name="Problems-Interval_test" target="11" />
       <module name="Problems-Maximum_element_divisible_by_four_main" target="11" />
@@ -48,6 +50,8 @@
       <module name="Problems-Reversing_input_numbers_test" target="11" />
       <module name="Problems-Snail_main" target="11" />
       <module name="Problems-Snail_test" target="11" />
+      <module name="Problems-Sum_of_numbers_in_the_range_main" target="11" />
+      <module name="Problems-Sum_of_numbers_in_the_range_test" target="11" />
       <module name="Problems-The__un_-ordered_sequence_main" target="11" />
       <module name="Problems-The__un_-ordered_sequence_test" target="11" />
       <module name="Problems-The_Hello_World_program_main" target="11" />
@@ -66,6 +70,8 @@
       <module name="Problems-The_smallest_value_test" target="11" />
       <module name="Problems-The_sum_of_integers_from_a_to_b_main" target="11" />
       <module name="Problems-The_sum_of_integers_from_a_to_b_test" target="11" />
+      <module name="Problems-Vowel_or_not_main" target="11" />
+      <module name="Problems-Vowel_or_not_test" target="11" />
       <module name="Problems-We_need_to_learn_Java_main" target="11" />
       <module name="Problems-We_need_to_learn_Java_test" target="11" />
       <module name="Simple_Chatty_Bot-task_main" target="11" />
