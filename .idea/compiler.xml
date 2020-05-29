@@ -20,16 +20,22 @@
       <module name="Problems-Decrement_all_test" target="11" />
       <module name="Problems-Desks_main" target="11" />
       <module name="Problems-Desks_test" target="11" />
+      <module name="Problems-Direction_main" target="11" />
+      <module name="Problems-Direction_test" target="11" />
       <module name="Problems-Even_or_odd_main" target="11" />
       <module name="Problems-Even_or_odd_test" target="11" />
       <module name="Problems-Exactly_one_parameter_is_positive_main" target="11" />
       <module name="Problems-Exactly_one_parameter_is_positive_test" target="11" />
       <module name="Problems-Fill_the_declaration_main" target="11" />
       <module name="Problems-Fill_the_declaration_test" target="11" />
+      <module name="Problems-Floor-space_of_the_room_main" target="11" />
+      <module name="Problems-Floor-space_of_the_room_test" target="11" />
       <module name="Problems-From_0_to_4_main" target="11" />
       <module name="Problems-From_0_to_4_test" target="11" />
       <module name="Problems-Guest_list_of_a_hotel_main" target="11" />
       <module name="Problems-Guest_list_of_a_hotel_test" target="11" />
+      <module name="Problems-Harry_Potter_main" target="11" />
+      <module name="Problems-Harry_Potter_test" target="11" />
       <module name="Problems-Healthy_sleep_main" target="11" />
       <module name="Problems-Healthy_sleep_test" target="11" />
       <module name="Problems-Hello,_Java_main" target="11" />
